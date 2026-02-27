@@ -106,7 +106,7 @@ export default function Hero() {
             className="font-display font-bold leading-[0.92] tracking-tight text-white mb-6"
             style={{ fontSize: 'clamp(3.2rem, 7vw, 6.5rem)' }}
           >
-            Votre identitée
+            Votre identité
             <br />
             créée en{' '}
             <span className="relative inline-block">
